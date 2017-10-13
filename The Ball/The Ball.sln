@@ -1,7 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{4B4BE1F6-893C-B331-D11C-F03BD10FA21C}") = "The Ball", "Assembly-CSharp.csproj", "{625C3BFF-C0A4-2EEC-959A-724F292244B7}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Ball", "The Ball.csproj", "{B681E44E-F70D-1C91-C7CA-6F9331183A43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{625C3BFF-C0A4-2EEC-959A-724F292244B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{625C3BFF-C0A4-2EEC-959A-724F292244B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{625C3BFF-C0A4-2EEC-959A-724F292244B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{625C3BFF-C0A4-2EEC-959A-724F292244B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B681E44E-F70D-1C91-C7CA-6F9331183A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B681E44E-F70D-1C91-C7CA-6F9331183A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B681E44E-F70D-1C91-C7CA-6F9331183A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B681E44E-F70D-1C91-C7CA-6F9331183A43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
