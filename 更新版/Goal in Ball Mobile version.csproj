@@ -83,6 +83,7 @@
     <Compile Include="Assets\Script\BotanIdou.cs" />
     <Compile Include="Assets\Script\GameManager.cs" />
     <Compile Include="Assets\Script\Kaiten.cs" />
+    <Compile Include="Assets\Script\Kaiten2.cs" />
     <Compile Include="Assets\Script\Mausu.cs" />
     <Compile Include="Assets\Script\MovableBoxManager.cs" />
     <Compile Include="Assets\Script\StageSelectManager.cs" />
